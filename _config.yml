@@ -3,9 +3,9 @@ title: 冥王星上的Tang
 SEOTitle: 悲观且现实的理想主义者
 header-img: img/post-bg-desk.jpg
 email: breakfastpluto@qq.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+description: "一个散漫的人,一份闲散的事,此间少年不戴花"
+keyword: "梦旅人,神秘学,塔罗,占星,瑜伽,宅"
+url: "https://tang-pluto.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
 
@@ -18,12 +18,10 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# weibo_username:     冥王星上的Tang
+# github_username:    Tang-pluto
+# wechat_username:    plutotang
+
 
 
 
