@@ -97,16 +97,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
+        title: "@冥王星上的Tang",
+        href: "https://weibo.com/tangpluto"
     },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
+        title: "微信公众号：冥王星的Tang",
+        href: "https://mp.weixin.qq.com/s/zmonzmi7Dbu-Rg6IGVF7cw"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
     }
 ]
