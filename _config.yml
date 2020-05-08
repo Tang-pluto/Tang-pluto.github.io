@@ -18,10 +18,9 @@ sidebar-avatar: /img/x2539883851.jpg      # use absolute URL, seeing it's used i
 
 # SNS settings
 RSS: false
-# weibo_username:     冥王星上的Tang
-# wechat_username:    plutotang
-# github_username:    Tang-pluto
-
+# weibo_username:     tangpluto
+github_username:    Tang-pluto
+#wechat_username:   plutotang
 
 
 
