@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "@冥王星上的Tang",
+        title: "新浪微博：@冥王星上的Tang",
         href: "https://weibo.com/tangpluto"
     },{
         title: "微信公众号：冥王星的Tang",
