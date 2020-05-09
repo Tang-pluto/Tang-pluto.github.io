@@ -4,10 +4,10 @@ SEOTitle: Tang
 header-img: img/photo-1506.jpg
 email: breakfastpluto@qq.com
 description: "一个散漫的人,一份闲散的事,此间少年不戴花"
-keyword: "梦旅人,神秘学,塔罗,占星,瑜伽,宅"
+keyword: "Tang,神秘学,塔罗,占星,瑜伽,宅,冥王星上的Tang,tang,TANG"
 url: "https://tang-pluto.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://tang-pluto.github.io/" # you code repository
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,9 @@ sidebar-avatar: /img/x2539883851.jpg      # use absolute URL, seeing it's used i
 RSS: false
 # 
 weibo_username:     tangpluto
-douban_username:     1028835
+douban_username:    1028835
+wechat_username:    plutoTang
+wechat_username:    MSastra
 github_username:    Tang-pluto
 
 
@@ -53,14 +55,11 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
-
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
+  clientID: 8727238441c9f34acec9                            #生成的clientID
+  clientSecret: b14b45c7b5ff5ef3cb5a84dbc0e9cf8918ac4b72    #生成的clientSecret
   repo: tang-pluto.github.io    #仓库名称
   owner: tang-pluto    #github用户名
   admin: tang-pluto
