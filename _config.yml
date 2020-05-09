@@ -53,15 +53,18 @@ kramdown:
 
 # 评论系统
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 8727238441c9f34acec9                            #生成的clientID
+
+
+var gitalk = new Gitalk({
+ clientID: 8727238441c9f34acec9                            #生成的clientID
   clientSecret: b14b45c7b5ff5ef3cb5a84dbc0e9cf8918ac4b72    #生成的clientSecret
   repo: tang-pluto.github.io    #仓库名称
   owner: tang-pluto    #github用户名
   admin: tang-pluto
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  id: location.pathname,      // 用于标记评论是哪个页面的，确保唯一，并且长度小于50
+})
 
+gitalk.render('gitalk-container');    // 渲染Gitalk评论组件
 
 
 
