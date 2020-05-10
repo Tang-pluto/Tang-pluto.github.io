@@ -1,0 +1,25 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      My 2 Post 				# 标题 
+subtitle:   hi #副标题
+date:       2020-05-10 				# 时间
+author:     Tang 						# 作者
+header-img: img/post-bg-coffee.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 音乐
+---
+
+
+<iframe frameborder="no" border="0" marginwidth="0"
+marginheight="0" width=330 height=86
+src="//music.163.com/outchain/player?type=2&id=458725076&auto=1&height=66">
+</iframe>
+
+
+
+
+
+## Hey
+>这是我的第2篇博客。
+天啊
