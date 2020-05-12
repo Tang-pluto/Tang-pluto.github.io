@@ -82,10 +82,10 @@ service-worker: true
 # Friends
 friends: [
     {
-    title: "微信公众号：冥王星上的Tang",
+    title: "冥王星上的Tang",
         href: "https://mp.weixin.qq.com/s/zmonzmi7Dbu-Rg6IGVF7cw"
     },{
-        title: "微信公众号：冥王星上的早餐",
+        title: "冥王星上的早餐",
         href: "https://mp.weixin.qq.com/s/fU3gXbBDB9wTC877DyT5BQ"
     },{
         title: "isha瑜伽",
