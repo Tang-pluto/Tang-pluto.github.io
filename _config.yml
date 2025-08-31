@@ -81,7 +81,6 @@ service-worker: true
 
 # Friends
 friends: [
-   
     {
         title: "冥王星上的早餐",
         href: "https://mp.weixin.qq.com/s/kPTfCQU-h-8t83M18d0Vvg"
